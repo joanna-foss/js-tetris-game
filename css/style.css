@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#tetris-board {
+    background-color: black;
+    border: 1px solid yellow;
+}
